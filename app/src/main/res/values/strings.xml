@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ex1</string>
+    <string name="editeaza_mesaj">Adauga mesajul</string>
+    <string name="buton_trimite">Trimite</string>
+</resources>
